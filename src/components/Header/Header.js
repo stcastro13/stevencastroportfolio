@@ -30,6 +30,11 @@ const Header = () =>  (
           <NavLink>About</NavLink>
         </Link>
       </li>
+      <li>
+        <Link href="https://docs.google.com/document/d/1v-FoDbxUfYcrWk0uz11fNVsEUwCUvmYv/edit?usp=sharing&ouid=105831371106230691691&rtpof=true&sd=true">
+          <a><NavLink>Resume</NavLink></a>
+        </Link>
+      </li>
     </Div2>
     <Div3>
       <SocialIcons href="https://github.com/stcastro13">
