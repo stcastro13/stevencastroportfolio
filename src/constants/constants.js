@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'My Recipe',
     description: "Search for recipes of your choosing in this Android App using an external API Food2Fork. Quickly find Recipe Score and Ingredient List for the recipe of your choosing.",
-      image: '/images/myrecipe.png',
+      image: '/images/MyRecipe.png',
       tags: ['REST API', 'Android', 'Android Studio', 'CSS', 'Java'],
     source: 'https://github.com/pmluz/MyRecipe',
     visit: 'https://github.com/pmluz/MyRecipe',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Knight Light',
     description:"Game made for the Global Game Jam in Unity3D. Collaborated with three other people to create a 3D puzzle game where light is your only weapon against monsters.",
-    image: '/images/knightlight.png',
+    image: '/images/knightlight.PNG',
     tags: ['C#', 'Unity', 'Blender3D'],
     source: 'https://github.com/efrenaguilar95/KnightLight',
     visit: 'https://github.com/efrenaguilar95/KnightLight',
@@ -20,9 +20,9 @@ export const projects = [
   {
     title: 'Anime Oculus Game Tracker',
     description:"Website created using React to track different aspects of Mobile Games. Features includes searching games by Region and small preview.",
-    image: '/images/animeoculus.png',
+    image: '/images/animeoculus.PNG',
     tags: ['Firebase', 'React', 'CSS'],
-    source: 'https://github.com/efrenaguilar95/KnightLight',
+    source: 'https://animeoculus.com/',
     visit: 'https://animeoculus.com/',
     id: 1,
   },
